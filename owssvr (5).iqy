@@ -1,0 +1,16 @@
+WEB
+1
+http://dms.int.eurofins.local/is/itd/pharma/ddbs/_vti_bin/owssvr.dll?XMLDATA=1&List={78756485-F764-453E-AD9C-5B4214A30CA8}&View={1EF1A807-0FF6-4190-B313-6B153390D303}&RowLimit=0&RootFolder=%2fis%2fitd%2fpharma%2fddbs%2fLists%2fStandard%20Changes
+
+Selection={78756485-F764-453E-AD9C-5B4214A30CA8}-{1EF1A807-0FF6-4190-B313-6B153390D303}
+EditWebPage=
+Formatting=None
+PreFormattedTextToColumns=True
+ConsecutiveDelimitersAsOne=True
+SingleBlockTextImport=False
+DisableDateRecognition=False
+DisableRedirections=False
+SharePointApplication=http://dms.int.eurofins.local/is/itd/pharma/ddbs/_vti_bin
+SharePointListView={1EF1A807-0FF6-4190-B313-6B153390D303}
+SharePointListName={78756485-F764-453E-AD9C-5B4214A30CA8}
+RootFolder=/is/itd/pharma/ddbs/Lists/Standard Changes
